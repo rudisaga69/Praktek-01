@@ -14,5 +14,23 @@ public class KulkasAksi {
         Kulkas Panasonic = new Kulkas();
         Kulkas Sharp = new Kulkas();
         Kulkas Polytron = new Kulkas();
+        
+        Panasonic.merek="Panasonic";
+        Panasonic.model="Dua Pintu";
+        Panasonic.ukuran="Kecil";
+        Panasonic.warna="Merah";
+        Panasonic.harga="20 Juta";
+        
+        Sharp.merek="Sharp";
+        Sharp.model="Satu Pintu";
+        Sharp.ukuran="Besar";
+        Sharp.warna="Biru";
+        Sharp.harga="15 Juta";
+        
+        Polytron.merek="Polytron";
+        Polytron.model="Tiga Pintu";
+        Polytron.ukuran="Sedang";
+        Polytron.warna="Emas";
+        Polytron.harga="25 Juta";
     }
 }
