@@ -10,5 +10,9 @@ package praktek.pkg01;
  * @author proWindows8.1
  */
 public class KulkasAksi {
-    
+    public static void main(String[] args) {
+        Kulkas Panasonic = new Kulkas();
+        Kulkas Sharp = new Kulkas();
+        Kulkas Polytron = new Kulkas();
+    }
 }
