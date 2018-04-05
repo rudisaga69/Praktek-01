@@ -32,5 +32,9 @@ public class KulkasAksi {
         Polytron.ukuran="Sedang";
         Polytron.warna="Emas";
         Polytron.harga="25 Juta";
+        
+        Panasonic.cetakInfo();
+        Sharp.cetakInfo();
+        Polytron.cetakInfo();
     }
 }
